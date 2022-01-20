@@ -30,7 +30,6 @@ p{
 body{
     background-image: linear-gradient(#8F9FBF,#4177A6,#0477BF,#2B3640,#2c2c2c);
     height: 1500px;
-    width: 500px;
     margin: auto;
     padding: 150px;
     display: flex;
