@@ -73,3 +73,11 @@ mark{
     border-radius: 5px;
     border-style: solid;
   }
+   main{
+      min-width: 320px;
+      max-width: 800px;
+      margin: auto;
+  }
+  img{
+      width: 100%;
+  }
