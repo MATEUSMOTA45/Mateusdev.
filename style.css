@@ -67,7 +67,7 @@ mark{
   main{
       max-width: 800px;
       width: 100%;
-      min-width: 400px;
+      min-width: 300px;
       margin: auto;
       height: auto;
   }
