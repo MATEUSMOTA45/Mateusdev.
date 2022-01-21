@@ -30,6 +30,7 @@ body{
     background-image: linear-gradient(#8F9FBF,#4177A6,#0477BF,#2B3640,#2c2c2c);
     margin: auto;
     padding: 150px;
+    margin: 10px;
 }
 section{
     text-align: center;
@@ -66,6 +67,7 @@ mark{
   main{
       max-width: 800px;
       width: 100%;
-      min-width: 320px;
+      min-width: 200px;
       margin: auto;
+      height: auto;
   }
