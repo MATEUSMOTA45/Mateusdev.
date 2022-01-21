@@ -1,14 +1,9 @@
- @charset "utf-8";
 header { 
     background-color: rgb(0, 0, 0);
     align-items: center;
-    border-style: solid ;
-    border-color: rgb(0, 0, 0);
-    border-radius: 10px;
     background-image: linear-gradient(#F2F2F2,#BFBFBF,#8C8C8C,#404040,#2c2c2c);
     margin: 10px;
-
-
+    border-radius: 10px;
 }
 h1 ,h2{ 
     font-family: sans-serif;
@@ -31,38 +26,29 @@ body{
     margin: auto;
     padding: 150px;
     margin: 10px;
+    border-radius: 10px;
 }
 section{
     text-align: center;
-    border-style: solid;
-    border-color: rgb(0, 0, 0);
-    border-radius: 10px;
     margin: 10px;
     background-image: linear-gradient(#F2F2F2,#BFBFBF,#8C8C8C,#404040,#2c2c2c);
+    border-radius: 10px;
 }
 footer{
     text-align: center;
-    border-style: solid;
-    border-color: rgb(0, 0, 0);
-    border-radius: 10px;
     background-image: linear-gradient(#F2F2F2,#BFBFBF,#8C8C8C,#404040,#2c2c2c);
     margin: 10px;
-
+    border-radius: 10px;
 }
 a {
     background-color:#2c2c2c;
-    border-radius: 15px
 }
 img {
     background-color: #2c2c2c;
-    border-radius: 15px;
-    border-radius: 1px;
-    border-style: double
 }
 mark{
     background-color: #2c2c2c;
-    border-radius: 5px;
-    border-style: solid;
+
 }
   main{
       max-width: 800px;
